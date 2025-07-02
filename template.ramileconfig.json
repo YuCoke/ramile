@@ -1,6 +1,6 @@
 {
 	"source_root": "",
-	"ignore": [],
+	"ignore": ["target", "build", ".git", ".idea", "out"],
 	"filters": [],
 	"lines_to_extract": 3000
 }
